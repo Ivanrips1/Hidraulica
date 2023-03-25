@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c024abf-2d94-49bb-99fe-1ad1dcdcfd68" name="Changes" comment="creador">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Hidraulica.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Rugosidad_Compuesta-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rugosidad_Compuesta.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/ejercicio.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/horton.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seccion compuesta.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-    </list>
+    <list default="true" id="0c024abf-2d94-49bb-99fe-1ad1dcdcfd68" name="Changes" comment="creador" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679288684895</updated>
-      <workItem from="1679288695703" duration="12429000" />
+      <workItem from="1679288695703" duration="12735000" />
     </task>
     <task id="LOCAL-00001" summary="Añadiendo Formulas">
       <created>1679295823437</created>
@@ -153,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679673134719</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="creador">
+      <created>1679723816128</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679723816128</updated>
+    </task>
+    <task id="LOCAL-00009" summary="creador">
+      <created>1679723849412</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679723849412</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
